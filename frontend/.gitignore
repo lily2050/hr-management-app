@@ -1,0 +1,14 @@
+# إنشاء ملف .gitignore
+node_modules/
+.env
+.env.local
+.expo/
+.eas/
+dist/
+build/
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.jks
+*.keystore

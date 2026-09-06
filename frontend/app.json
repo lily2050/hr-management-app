@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "HR Management App",
+    "slug": "hr-management-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.hrmanagement.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-localization"
+      ]
+    ],
+    "orientation": "portrait"
+  }
+}
